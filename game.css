@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 5px;
+}
+.box-container{
+   
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+
+h4{
+    text-align: right;
+    margin-right: 10rem;
+    /* font-size: 15px; */
+}
